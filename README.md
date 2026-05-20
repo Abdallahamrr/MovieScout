@@ -63,8 +63,8 @@ lib/
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/Abdallahamrr/reel_mood.git
-    cd reel_mood
+    git clone https://github.com/Abdallahamrr/MovieScout.git
+    cd MovieScout
     ```
 
 2.  **Environment Variables:**

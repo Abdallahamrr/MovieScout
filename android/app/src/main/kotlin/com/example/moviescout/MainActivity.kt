@@ -1,4 +1,4 @@
-package com.example.reel_mood
+package com.example.moviescout
 
 import io.flutter.embedding.android.FlutterActivity
 

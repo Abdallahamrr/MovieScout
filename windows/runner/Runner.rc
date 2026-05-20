@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "reel_mood" "\0"
+            VALUE "FileDescription", "moviescout" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "reel_mood" "\0"
+            VALUE "InternalName", "moviescout" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "reel_mood.exe" "\0"
-            VALUE "ProductName", "reel_mood" "\0"
+            VALUE "OriginalFilename", "moviescout.exe" "\0"
+            VALUE "ProductName", "moviescout" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
